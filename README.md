@@ -14,7 +14,6 @@ The core of the project involves designing and implementing novel models for fac
 ## Keywords:
 - Multi-task Cascaded Convolutional Networks (MTCNN)
 - Local Interpretable Model-agnostic Explanations (LIME)
-- Shapley Additive Explanations (SHAP)
 - Facial and Ocular Recognition
 
 ## Abstract:
