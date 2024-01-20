@@ -17,7 +17,7 @@ The core of the project involves designing and implementing novel models for fac
 - Facial and Ocular Recognition
 
 ## Abstract:
-Facial recognition plays a crucial role in computer vision, with advancements in machine learning techniques revolutionizing the field. This paper presents an investigation into the application of MTCNN for precise face and eye detection. Additionally, it incorporates interpretability methodologies such as LIME and SHAP. The results contribute to the development of more accurate, efficient, and responsible facial and visual recognition systems.
+Facial recognition plays a crucial role in computer vision, with advancements in machine learning techniques revolutionizing the field. This paper presents an investigation into the application of MTCNN for precise face and eye detection. Additionally, it incorporates interpretability methodologies such as LIME. The results contribute to the development of more accurate, efficient, and responsible facial and visual recognition systems.
 
 ## Contributors:
 Nikunj Jain - Amrita School of Computing, Amrita Vishwa Vidyapeetham, Bengaluru
