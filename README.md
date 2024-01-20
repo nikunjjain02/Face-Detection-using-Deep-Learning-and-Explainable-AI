@@ -1,4 +1,4 @@
-# Facial and Ocular Recognition with MTCNN, LIME, and SHAP
+# Facial and Ocular Recognition with MTCNN, LIME
 
 **Project Name:** Advancements in Facial and Ocular Recognition using MTCNN and Interpretable Machine Learning
 
